@@ -1,0 +1,3 @@
+This code use SegmentedControlTab component. So, you have to install this componet first by typing this command >>
+'npm install react-native-segmented-control-tab --save'
+Otherwise this code will not working.
